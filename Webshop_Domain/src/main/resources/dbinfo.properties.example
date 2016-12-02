@@ -1,0 +1,10 @@
+driver=org.postgresql.Driver
+type=postgresql
+host=gegevensbanken.khleuven.be
+port=51617
+db=2TX33
+scheme=r0620760_web3_webshop
+ssl=true
+sslfactory=org.postgresql.ssl.NonValidatingFactory
+user=
+password=
